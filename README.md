@@ -1,2 +1,2 @@
 # bra_size_calculator
-Plain JS code for bra size calculator and bra type suggestions
+Plain JS, PHP & CSS code for bra size calculator and bra type auto suggestions.
